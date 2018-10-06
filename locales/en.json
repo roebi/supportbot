@@ -1,0 +1,5 @@
+{
+  "greeting": "Hello ${from.first_name} ${from.last_name} !",
+  "tidi": "My name is tidi, I am the TIDE Support Bot.",
+  "target": "The Target is ..."
+}

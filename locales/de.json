@@ -1,0 +1,14 @@
+{
+  "greeting": "Hallo ${from.first_name} ${from.last_name} !",
+  "tidi": "Ich heisse tidi, ich bin der TIDE Support Bot !",
+  "target": "Ziel ist dass Du eine Lösung findest. Ich möchte Dich für Wiederkehrendes zur passenden Dokumentation / Service / Ansprechperson leiten.",
+  "fun": "Ich hoffe dass Du dabei auch etwas Spass hast.",
+  "locationquestion": "Wo bist Du erreichbar?",
+  "locsg": "St.Gallen",
+  "lochomeoffice": "Home Office",
+  "locotherlocation": "anderer Standort",
+  "themequestion": "Zu welchem Thema soll ich Auskunft geben?",
+  "theme1": "tide-testrunner",
+  "theme2": "Gui Library",
+  "theme3": "Testautomat"
+}

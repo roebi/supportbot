@@ -1,0 +1,36 @@
+{
+  "name": "tide-supportbot",
+  "version": "1.0.0",
+  "description": "📡 TIDE Support Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node polling.js",
+    "sandbox": "node sandbox.js",
+    "lint": "eslint .",
+    "test": "ava test",
+    "precommit": "npm run lint && npm run typecheck && npm test"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=6.2.0"
+  },
+  "keywords": [
+    "telegraf",
+    "bot",
+    "tide"
+  ],
+  "author": "Robert Halter <roebi@halter.in>",
+  "contributors": {},
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "telegraf": "^3.24.0",
+    "telegraf-i18n": "^6.3.0",
+    "telegraf-inline-menu": "^3.2.1"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "eslint": "^5.2.0",
+    "eslint-config-standard": "^12.0.0"
+  }
+}
