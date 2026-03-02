@@ -29,7 +29,7 @@
     "telegraf-inline-menu": "^6.3.0"
   },
   "devDependencies": {
-    "ava": "^6.4.1",
+    "ava": "^7.0.0",
     "eslint": "^10.0.2",
     "eslint-config-standard": "^17.1.0"
   }
